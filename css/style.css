@@ -1,0 +1,17 @@
+.age-consider{
+    font-size: 7vw;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(15, 15, 15, 0.71);
+}
+
+.link-to:hover{
+    color: #f44336;
+    background: white;
+}
+
+.link-cover{
+    text-align: center;
+}
